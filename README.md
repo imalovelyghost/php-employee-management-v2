@@ -2,6 +2,8 @@
 
 # Employee Management V2 <!-- omit in toc -->
 
+https://github.com/Ethan-Alfaro/php-employee-management-v1/
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000" />
 </p>
